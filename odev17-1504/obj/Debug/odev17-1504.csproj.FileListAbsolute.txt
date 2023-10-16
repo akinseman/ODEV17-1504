@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17-1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17_1504.Form1.resources
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17_1504.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17-1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17-1504.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\bin\Debug\odev17-1504.exe.config
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\bin\Debug\odev17-1504.exe
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\bin\Debug\odev17-1504.pdb
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17-1504.exe
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev17-1504\odev17-1504\obj\Debug\odev17-1504.pdb
